@@ -1,0 +1,12 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\bin\Release\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\bin\Release\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\obj\Release\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DTO\obj\Release\DTO.pdb
+E:\KTTH&Winfom\ManagementApp\DTO\bin\Release\DTO.dll
+E:\KTTH&Winfom\ManagementApp\DTO\bin\Release\DTO.pdb
+E:\KTTH&Winfom\ManagementApp\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+E:\KTTH&Winfom\ManagementApp\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\KTTH&Winfom\ManagementApp\DTO\obj\Release\DTO.dll
+E:\KTTH&Winfom\ManagementApp\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,154 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ManagementApp.exe.config
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ManagementApp.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ManagementApp.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\EnvDTE.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\stdole.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.SuggestedBindingRedirects.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fAccountProfile.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fAdmin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fCustomers.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fLogin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fOrders.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fProducts.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fReport.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.Properties.Resources.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fMainMenu.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.GenerateResource.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Release\ManagementApp.pdb
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ManagementApp.exe.config
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ManagementApp.exe
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ManagementApp.pdb
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\BLL.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\DAL.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\DTO.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\Microsoft.SqlServer.Types.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\EnvDTE.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\stdole.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\BLL.pdb
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\DAL.pdb
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\DTO.pdb
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\EnvDTE.xml
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.AssemblyReference.cache
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fAccountProfile.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fAdmin.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fCustomers.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fLogin.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fOrders.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fProducts.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fReport.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.Properties.Resources.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\QuanLyQuanAo.fMainMenu.resources
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.GenerateResource.cache
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.csproj.CoreCompileInputs.cache
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\Manageme.E8557A6E.Up2Date
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.exe
+E:\KTTH&Winfom\ManagementApp\ManagementApp\obj\Release\ManagementApp.pdb

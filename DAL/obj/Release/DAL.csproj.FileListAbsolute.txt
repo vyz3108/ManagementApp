@@ -1,0 +1,18 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Release\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Release\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Release\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Release\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Release\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Release\DAL.pdb
+E:\KTTH&Winfom\ManagementApp\DAL\bin\Release\DAL.dll
+E:\KTTH&Winfom\ManagementApp\DAL\bin\Release\DAL.pdb
+E:\KTTH&Winfom\ManagementApp\DAL\bin\Release\DTO.dll
+E:\KTTH&Winfom\ManagementApp\DAL\bin\Release\DTO.pdb
+E:\KTTH&Winfom\ManagementApp\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+E:\KTTH&Winfom\ManagementApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+E:\KTTH&Winfom\ManagementApp\DAL\obj\Release\DAL.csproj.Up2Date
+E:\KTTH&Winfom\ManagementApp\DAL\obj\Release\DAL.dll
+E:\KTTH&Winfom\ManagementApp\DAL\obj\Release\DAL.pdb

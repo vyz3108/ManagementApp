@@ -1,0 +1,36 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\obj\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\DAL\obj\Debug\DAL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\bin\Debug\DAL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\bin\Debug\DAL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\bin\Debug\DTO.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\bin\Debug\DTO.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\obj\Debug\DAL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\DAL\obj\Debug\DAL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\bin\Debug\DAL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\bin\Debug\DAL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\bin\Debug\DTO.dll
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\bin\Debug\DTO.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\obj\Debug\DAL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\DAL\obj\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\DAL\obj\Debug\DAL.pdb

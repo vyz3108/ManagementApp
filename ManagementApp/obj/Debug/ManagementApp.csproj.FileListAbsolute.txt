@@ -1,0 +1,101 @@
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe.config
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\ManagementApp.pdb
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\BLL.dll
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\DAL.dll
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\DTO.dll
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\BLL.pdb
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\DAL.pdb
+E:\Winform\ManagementApp\ManagementApp\bin\Debug\DTO.pdb
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.AssemblyReference.cache
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fAccountProfile.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fAdmin.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fCustomers.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fLogin.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fOrders.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fProducts.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fReporting.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.Properties.Resources.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fMainMenu.resources
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.GenerateResource.cache
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.CoreCompileInputs.cache
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.CopyComplete
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.exe
+E:\Winform\ManagementApp\ManagementApp\obj\Debug\ManagementApp.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.SuggestedBindingRedirects.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fAccountProfile.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fAdmin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fCustomers.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fLogin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fOrders.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fProducts.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fMainMenu.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.GenerateResource.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe.config
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ManagementApp.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\EnvDTE.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\stdole.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.Properties.Resources.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\ManagementApp.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\ManagementApp\obj\Debug\QuanLyQuanAo.fReport.resources

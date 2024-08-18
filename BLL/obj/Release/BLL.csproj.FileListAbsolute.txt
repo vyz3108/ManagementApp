@@ -1,0 +1,22 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Release\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Release\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Release\BLL.pdb
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\BLL.dll
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\BLL.pdb
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\DAL.dll
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\DTO.dll
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\DAL.pdb
+E:\KTTH&Winfom\ManagementApp\BLL\bin\Release\DTO.pdb
+E:\KTTH&Winfom\ManagementApp\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+E:\KTTH&Winfom\ManagementApp\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+E:\KTTH&Winfom\ManagementApp\BLL\obj\Release\BLL.csproj.Up2Date
+E:\KTTH&Winfom\ManagementApp\BLL\obj\Release\BLL.dll
+E:\KTTH&Winfom\ManagementApp\BLL\obj\Release\BLL.pdb

@@ -1,0 +1,65 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fAccountProfile.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fAdmin.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fLogin.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BLL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\GUI.csproj.CopyComplete
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fMainMenu.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanAo.exe.config
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanAo.exe
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanAo.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fProducts.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fReporting.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.exe
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fCustomers.resources
+E:\New folder\LTUD\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanAo.fOrders.resources

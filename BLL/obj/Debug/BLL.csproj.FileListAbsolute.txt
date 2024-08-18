@@ -1,0 +1,44 @@
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\obj\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\QuanLyQuanCafe\BLL\obj\Debug\BLL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\BLL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\BLL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\DAL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\DTO.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\DAL.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\bin\Debug\DTO.pdb
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\obj\Debug\BLL.dll
+C:\Users\VYMITS\Documents\Zalo Received Files\QuanLyQuanCafe\BLL\obj\Debug\BLL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\BLL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\BLL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\DAL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\DTO.dll
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\DAL.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\bin\Debug\DTO.pdb
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\obj\Debug\BLL.dll
+E:\New folder\LTUD\QuanLyQuanCafe\BLL\obj\Debug\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\BLL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\DAL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\DTO.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\DAL.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\bin\Debug\DTO.pdb
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Debug\BLL.dll
+D:\Project Files\Visual Studio 2022 Project\App Programing\ManagementApp\BLL\obj\Debug\BLL.pdb
